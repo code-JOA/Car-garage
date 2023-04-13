@@ -4,7 +4,7 @@ import './NavBar.css'
 import logo from '../../Assets/logo.png'
 
 import { IoIosCloseCircle } from 'react-icons/io'
-import { Tb }
+import { TbGridDots } from 'react-icons/tb'
 
 const NavBar = () => {
   return (
