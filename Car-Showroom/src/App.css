@@ -22,4 +22,8 @@ li {
 a {
   text-decoration: none;
   cursor: pointer;
+}
+
+p {
+  color: var(--textColor);
 }/*# sourceMappingURL=App.css.map */
