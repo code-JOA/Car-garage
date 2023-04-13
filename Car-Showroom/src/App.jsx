@@ -2,6 +2,14 @@ import React from 'react'
 import './App.css'
 
 import NavBar from './Components/NavBar/NavBar'
+import Home from './Components/Home/Home'
+import  from './Components//'
+import NavBar from './Components/NavBar/NavBar'
+import NavBar from './Components/NavBar/NavBar'
+import NavBar from './Components/NavBar/NavBar'
+import NavBar from './Components/NavBar/NavBar'
+import NavBar from './Components/NavBar/NavBar'
+
 
 // import Auction from './Components/Auction/Auction'
 
