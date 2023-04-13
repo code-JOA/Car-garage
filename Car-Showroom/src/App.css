@@ -27,4 +27,13 @@ a {
 p {
   color: var(--textColor);
   line-height: 1.4rem;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.grid {
+  display: grid;
 }/*# sourceMappingURL=App.css.map */
