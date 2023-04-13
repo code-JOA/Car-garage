@@ -41,4 +41,7 @@ p {
 
 .btn {
   border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
 }/*# sourceMappingURL=App.css.map */
