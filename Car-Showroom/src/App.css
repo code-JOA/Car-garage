@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Titillium+Web:wght@200;400;600;700&display=swap");
-.title {
-  color: red;
-  font-size: 50px;
-}
-
 * {
   padding: 0;
   box-sizing: border-box;
-  transition: 2s;
+  transition: 0.2s ease-in-out;
 }/*# sourceMappingURL=App.css.map */
