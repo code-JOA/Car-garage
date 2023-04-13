@@ -26,4 +26,5 @@ a {
 
 p {
   color: var(--textColor);
+  line-height: 1.4rem;
 }/*# sourceMappingURL=App.css.map */
