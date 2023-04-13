@@ -3,6 +3,8 @@ import './NavBar.css'
 
 import logo from '../../Assets/logo.png'
 
+import { IoIosCloseCircle } from 'react-icons/io'
+import { Tb }
 
 const NavBar = () => {
   return (
