@@ -13,7 +13,12 @@ const App = () => {
       <NavBar />
       <Home />
       <Search />
-      < />
+      <Trending />
+      <Sellers />
+      <Auction />
+      <Review />
+
+
 
       
     </div>
