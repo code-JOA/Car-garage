@@ -1,10 +1,12 @@
 import React from 'react'
-import './Footer.css'
+import './Home.css'
 
 
 const Home = () => {
   return (
-    <div className=''>Home</div>
+    <div className=''>
+        
+    </div>
   )
 }
 
