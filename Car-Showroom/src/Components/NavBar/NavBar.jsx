@@ -31,8 +31,12 @@ const NavBar = () => {
                 </li>
             </ul>
 
-            <IoIosCloseCircle/>
+            <IoIosCloseCircle className='icon'/>
         </div>
+        
+        .signUp
+
+
     </div>
   )
 }
