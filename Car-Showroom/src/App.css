@@ -4,4 +4,8 @@
   box-sizing: border-box;
   transition: 0.2s ease-in-out;
   font-family: "Titillium Web", sans-serif;
+}
+
+:root {
+  --primaryColor: #7a63 ;
 }/*# sourceMappingURL=App.css.map */
