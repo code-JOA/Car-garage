@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Auction from 'Components/Auction/Auction'
+import Auction from './Components/Auction/Auction'
 
 const App = () => {
   return (
