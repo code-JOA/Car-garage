@@ -1,8 +1,9 @@
 import React from 'react'
+import ./
 
 const Auction = () => {
   return (
-    <div>Auction</div>
+    <div className='auction'>Auction</div>
   )
 }
 
