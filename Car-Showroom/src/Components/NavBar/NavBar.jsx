@@ -4,8 +4,31 @@ import './NavBar.css'
 
 const NavBar = () => {
   return (
-    <div className=''>
+    <div className='header'>
+        <div className='logoDiv'>
+            <img src='' alt='' className='logo'>
+            </img>
+        </div>
 
+        <div className="navbar">
+            <ul className="menu">
+                <li className="listItem">
+                    <a href="/" className="link">Used Cars</a>
+                </li>
+
+                <li className="listItem">
+                    <a href="/" className="link">New Cars</a>
+                </li>
+
+                <li className="listItem">
+                    <a href="/" className="link">Auctions</a>
+                </li>
+
+                <li className="listItem">
+                    <a href="/" className="link">Sell</a>
+                </li>
+            </ul>
+        </div>
     </div>
   )
 }
