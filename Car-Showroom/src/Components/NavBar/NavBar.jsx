@@ -32,10 +32,13 @@ const NavBar = () => {
             </ul>
 
             <IoIosCloseCircle className='icon'/>
+
         </div>
         
         <div className="signUp flex">
             <div className="text">Sign Up</div>
+            <TdGridDots className='icon'/>
+
         </div>
 
 
