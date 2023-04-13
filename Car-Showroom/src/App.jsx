@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 
-import NavBar from './Components/Auction/Auction'
+import NavBar from './Components/NavBar/NavBar'
 
 // import Auction from './Components/Auction/Auction'
 
@@ -11,6 +11,10 @@ const App = () => {
     <div className='title'>
       {/* <Auction/> */}
       <NavBar />
+      <Home />
+      <Search />
+      < />
+
       
     </div>
   )
