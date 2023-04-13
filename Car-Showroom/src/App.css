@@ -13,4 +13,8 @@
   --greyColor: #f4f4f4;
   --whiteColor: #f5f4fa;
   --blackColor: #434344;
+}
+
+li {
+  list-style: none;
 }/*# sourceMappingURL=App.css.map */
