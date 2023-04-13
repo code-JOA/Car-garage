@@ -34,7 +34,9 @@ const NavBar = () => {
             <IoIosCloseCircle className='icon'/>
         </div>
         
-        <div className="signUp flex"></div>
+        <div className="signUp flex">
+            <div className="text">Sign Up</div>
+        </div>
 
 
     </div>
