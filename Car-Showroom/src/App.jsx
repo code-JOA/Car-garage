@@ -5,7 +5,8 @@ import Auction from './Components/Auction/Auction'
 const App = () => {
   return (
     <div className='title'>
-      <Auction/>
+      {/* <Auction/> */}
+      <NavBar />
       
     </div>
   )
