@@ -44,4 +44,8 @@ p {
   outline: none;
   background: none;
   cursor: pointer;
+}
+
+primaryBtn {
+  background: var(--);
 }/*# sourceMappingURL=App.css.map */
