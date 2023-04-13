@@ -30,6 +30,8 @@ const NavBar = () => {
                     <a href="/" className="link">Sell</a>
                 </li>
             </ul>
+
+            <IoIosCloseCircle/>
         </div>
     </div>
   )
