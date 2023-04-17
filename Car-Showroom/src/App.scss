@@ -55,5 +55,37 @@ p{
 }
 
 primaryBtn{
-    background: var(--primaryColor); 
+    background: var(--primaryColor);
+    padding: 10px 15px;
+    border-radius: 10px; 
+    font-weight: 600;
+    color: var(--blackColor);
+    font-size: 12px;
+    &:hover{
+        background: var(--secondaryColor);
+        color: var(--blackColor);
+
+    }
 }
+
+.container{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.section{
+    padding: 4rem 0 2rem;
+    
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.icons{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
