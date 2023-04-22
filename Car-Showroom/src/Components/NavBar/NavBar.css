@@ -88,6 +88,6 @@
   color: var(--blackColor);
 }
 .header .signUp .toggleNavbarIcon {
-  background: green;
+  background: none;
   color: var(--primaryColor);
 }/*# sourceMappingURL=NavBar.css.map */
