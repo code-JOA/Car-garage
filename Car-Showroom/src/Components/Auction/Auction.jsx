@@ -3,7 +3,7 @@ import './Auction.css'
 
 const Auction = () => {
   return (
-    <div className='auction'>This is an Auction</div>
+    <div className='auction'></div>
   )
 }
 
