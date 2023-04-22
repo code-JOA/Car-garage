@@ -31,5 +31,8 @@
     transform: translate(-50%);
     border-radius: 10px;
     text-align: center;
+    padding: 2rem;
+    transition: 0.3s ease;
+    z-index: 2000;
   }
 }/*# sourceMappingURL=NavBar.css.map */
