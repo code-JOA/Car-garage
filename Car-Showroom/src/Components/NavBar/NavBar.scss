@@ -85,8 +85,14 @@
                 border-radius: 3px;
                 color: var(--whiteColor);
                 cursor: pointer;
-                font-size: 12px;
-                
+                font-size: 14px;
+
+                &:hover{
+                    background: var(--secondaryColor);
+                    
+
+                }
+
             }
         }
     }
