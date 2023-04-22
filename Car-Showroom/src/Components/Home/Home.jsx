@@ -10,7 +10,9 @@ const Home = () => {
             <span className="homeSpan">
               Meet your new car
             </span>
-            <h1
+            <h1 className='homeTitle'>
+
+            </h1>
           </div>
         </div>
     </div>
