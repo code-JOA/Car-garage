@@ -86,4 +86,8 @@
 .header .signUp .text:hover {
   background: var(--secondaryColor);
   color: var(--blackColor);
+}
+.header .signUp .toggleNavbarIcon {
+  background: green;
+  color: var(--primaryColor);
 }/*# sourceMappingURL=NavBar.css.map */
