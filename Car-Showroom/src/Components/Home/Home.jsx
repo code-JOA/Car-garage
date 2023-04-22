@@ -11,6 +11,7 @@ const Home = () => {
               Meet your new car
             </span>
             <h1 className='homeTitle'>
+              Honda Civic Type R
 
             </h1>
           </div>
