@@ -23,5 +23,7 @@
 @media screen and (max-width: 768px) {
   .header .navbar {
     position: absolute;
+    background: var(--secondaryColor);
+    width: 70%;
   }
 }/*# sourceMappingURL=NavBar.css.map */

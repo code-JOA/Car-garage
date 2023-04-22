@@ -26,7 +26,9 @@
 @media screen and (max-width: 768px) {
     .navbar{
         position: absolute;
-        background: 
+        background: var(--secondaryColor);
+        width: 70%;
+        
     }
 }
 
