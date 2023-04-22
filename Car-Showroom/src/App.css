@@ -70,11 +70,17 @@ primaryBtn:hover {
 
 img {
   width: 100%;
+  height: auto;
   -o-object-fit: cover;
      object-fit: cover;
 }
 
-.icons {
+.icon {
   font-size: 25px;
   cursor: pointer;
+}
+
+.secTitle {
+  color: var(--textColor);
+  font-size: 20px;
 }/*# sourceMappingURL=App.css.map */

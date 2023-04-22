@@ -80,6 +80,7 @@ primaryBtn{
 
 img{
     width: 100%;
+    height:auto;
     object-fit: cover;
 }
 
@@ -88,8 +89,9 @@ img{
     cursor: pointer;
 }
 
+
 .secTitle{
     color: var(--textColor);
     font-size: 20px;
-    
+
 }

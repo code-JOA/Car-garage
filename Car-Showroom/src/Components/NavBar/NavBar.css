@@ -1,1 +1,23 @@
-/*# sourceMappingURL=NavBar.css.map */
+:root {
+  --primaryColor: #7a63f1;
+  --secondaryColor: #abe8fc;
+  --textColor: #a3a3a3;
+  --greyColor: #f4f4f4;
+  --whiteColor: #f5f4fa;
+  --blackColor: #434344;
+}
+
+.header {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1.5rem 2rem;
+  box-shadow: 0px 4px 6px rgb(237, 237, 237);
+  z-index: 1000;
+}
+
+.logDiv .logo {
+  width: 25px;
+}/*# sourceMappingURL=NavBar.css.map */
