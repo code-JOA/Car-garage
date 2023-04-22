@@ -80,6 +80,9 @@
   cursor: pointer;
   font-size: 14px;
 }
+.header .signUp .text:hover {
+  background: var;
+}
 
 .signUp .text {
   padding: 3px 10px;
