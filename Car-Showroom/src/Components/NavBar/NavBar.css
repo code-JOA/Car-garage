@@ -72,7 +72,8 @@
     color: var(--whiteColor);
   }
 }
-.header .signUp .text {
+
+.signUp .text {
   padding: 3px 10px;
   background: var(--primaryColor);
   border-radius: 3px;
@@ -80,7 +81,7 @@
   cursor: pointer;
   font-size: 14px;
 }
-.header .signUp .text:hover {
+.signUp .text:hover {
   background: var(--secondaryColor);
   color: var(--blackColor);
 }/*# sourceMappingURL=NavBar.css.map */
