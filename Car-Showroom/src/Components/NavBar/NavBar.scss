@@ -67,9 +67,10 @@
             border-radius: 10px;
             cursor: pointer;
             
-        a{
-            font-size: 1.5em;
-        }    
+            a{
+                font-size: 1.5em;
+            }  
+            &:hover  
         }
     }
 }
