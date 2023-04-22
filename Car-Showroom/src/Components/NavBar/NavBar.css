@@ -47,4 +47,7 @@
     border-radius: 50%;
     font-size: 35px;
   }
+  .header .navbar .closeIcon:hover {
+    color: green;
+  }
 }/*# sourceMappingURL=NavBar.css.map */
