@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 
-import homeImage from 
+import homeImage from '../../Assets/car.png'
 
 const Home = () => {
   return (
