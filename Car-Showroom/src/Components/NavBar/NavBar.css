@@ -26,5 +26,7 @@
     background: var(--secondaryColor);
     width: 80%;
     top: 7rem;
+    right: 50%;
+    left: 50%;
   }
 }/*# sourceMappingURL=NavBar.css.map */
