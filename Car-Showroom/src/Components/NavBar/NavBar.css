@@ -71,16 +71,16 @@
   .header .menu .listItem:hover a {
     color: var(--whiteColor);
   }
-}
-.header .signUp .text {
-  padding: 3px 10px;
-  background: var(--primaryColor);
-  border-radius: 3px;
-  color: var(--whiteColor);
-  cursor: pointer;
-  font-size: 14px;
-}
-.header .signUp .text:hover {
-  background: var(--secondaryColor);
-  color: var(--blackColor);
+  .header .signUp .text {
+    padding: 3px 10px;
+    background: var(--primaryColor);
+    border-radius: 3px;
+    color: var(--whiteColor);
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .header .signUp .text:hover {
+    background: var(--secondaryColor);
+    color: var(--blackColor);
+  }
 }/*# sourceMappingURL=NavBar.css.map */
