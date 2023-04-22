@@ -65,5 +65,7 @@
   }
   .header .menu .listItem:hover {
     background: var(--primaryColor);
+    color: var(--whiteColor);
+    transition: 0.3s ease;
   }
 }/*# sourceMappingURL=NavBar.css.map */

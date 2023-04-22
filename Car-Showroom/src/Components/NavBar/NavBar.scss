@@ -72,6 +72,8 @@
             }  
             &:hover{
                 background: var(--primaryColor);
+                color: var(--whiteColor);
+                transition: .3s ease;
             }  
         }
     }
