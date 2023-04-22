@@ -72,6 +72,9 @@
     color: var(--whiteColor);
   }
 }
+.header .signUp .text {
+  padding: 3px 10px;
+}
 
 .signUp .text {
   padding: 3px 10px;
