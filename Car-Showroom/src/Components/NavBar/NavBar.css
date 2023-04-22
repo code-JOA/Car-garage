@@ -61,7 +61,7 @@
     cursor: pointer;
   }
   .header .menu .listItem a {
-    font-size: 1.5em;
+    font-size: 15px;
   }
   .header .menu .listItem:hover {
     background: var(--primaryColor);
@@ -69,6 +69,6 @@
     transition: 0.3s ease;
   }
   .header .menu .listItem:hover a {
-    color: var(--primaryColor);
+    color: var(--whiteColor);
   }
 }/*# sourceMappingURL=NavBar.css.map */
