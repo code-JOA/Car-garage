@@ -72,6 +72,9 @@
     color: var(--whiteColor);
   }
 }
+.header .signUp {
+  gap: 0.5rem;
+}
 .header .signUp .text {
   padding: 3px 10px;
   background: var(--primaryColor);
