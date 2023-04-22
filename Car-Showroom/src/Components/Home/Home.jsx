@@ -7,9 +7,10 @@ const Home = () => {
     <div className='home'>
         <div className="secContainer">
           <div className="homeText">
-            <div className="homeSpan">
-              
-            </div>
+            <span className="homeSpan">
+              Meet your new car
+            </span>
+            <h1
           </div>
         </div>
     </div>
