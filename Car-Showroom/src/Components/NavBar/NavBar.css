@@ -58,5 +58,9 @@
   .header .menu .listItem {
     padding: -5rem 1rem;
     border-radius: 10px;
+    cursor: pointer;
+  }
+  .header .menu .listItem a {
+    font-size: 1.5em;
   }
 }/*# sourceMappingURL=NavBar.css.map */
