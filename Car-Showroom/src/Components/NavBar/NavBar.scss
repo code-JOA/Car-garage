@@ -83,7 +83,7 @@
     }
 }
     .signUp{
-        gap: 
+        gap: .5rem;
         .text{
             padding: 3px 10px;
             background: var(--primaryColor);
@@ -97,6 +97,9 @@
                 color: var(--blackColor);
             }
         }
+
+        .toggleNavbar
+    
     }
 }
 
