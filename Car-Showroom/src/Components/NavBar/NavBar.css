@@ -55,4 +55,8 @@
     align-items: center;
     flex-direction: column;
   }
+  .header .menu .listItem {
+    padding: -5rem 1rem;
+    border-radius: 10px;
+  }
 }/*# sourceMappingURL=NavBar.css.map */
