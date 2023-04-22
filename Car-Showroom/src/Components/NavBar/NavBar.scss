@@ -85,7 +85,11 @@
     .signUp{
         .text{
             padding: 3px 10px;
-            background: 
+            background: var(--primaryColor);
+            border-radius: 3px;
+            color: var(--whiteColor);
+            cursor: pointer;
+            font-size: 14px;
         }
     }
 }
