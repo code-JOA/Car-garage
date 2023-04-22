@@ -10,7 +10,7 @@ const Home = () => {
 
         <div className="homeText">
           <span className="homeSpan">Meet your new car</span>
-          <h1 className="homeTitle">Audi RS6</h1>
+          <h1 className="homeTitle">Audi RS6 Sport</h1>
           <div className="btn flex">
             <button className="btn">More Details</button>
             <button className="btn primaryBtn">Test Drive</button>
