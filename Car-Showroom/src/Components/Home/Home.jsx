@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <div className="home">
       <div className="secContainer">
+
         <div className="homeText">
           <span className="homeSpan">Meet your new car</span>
           <h1 className="homeTitle">Honda Civic Type R</h1>
@@ -14,6 +15,8 @@ const Home = () => {
             <button className="btn primaryBtn">Test Drive</button>
           </div>
         </div>
+
+        
       </div>
     </div>
   );
