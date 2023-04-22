@@ -81,7 +81,8 @@
   font-size: 14px;
 }
 .header .signUp .text:hover {
-  background: var;
+  background: var(--secondaryColor);
+  color: var(--blackColor);
 }
 
 .signUp .text {

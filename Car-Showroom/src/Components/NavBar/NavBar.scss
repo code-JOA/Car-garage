@@ -92,7 +92,8 @@
             font-size: 14px;
 
             &:hover{
-                background: var;
+                background: var(--secondaryColor);
+                color: var(--blackColor);
             }
         }
     }
