@@ -13,7 +13,9 @@ const Home = () => {
             <h1 className='homeTitle'>
               Honda Civic Type R
             </h1>
-            
+            <div className="btn flex">
+              <button className="btn">More Details</button>
+            </div>
           </div>
         </div>
     </div>
