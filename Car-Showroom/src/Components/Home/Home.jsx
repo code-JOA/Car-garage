@@ -12,8 +12,8 @@ const Home = () => {
             </span>
             <h1 className='homeTitle'>
               Honda Civic Type R
-
             </h1>
+            
           </div>
         </div>
     </div>
