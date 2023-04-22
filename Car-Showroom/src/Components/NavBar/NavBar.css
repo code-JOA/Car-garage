@@ -24,6 +24,7 @@
   .header .navbar {
     position: absolute;
     background: var(--secondaryColor);
-    width: 70%;
+    width: 80%;
+    top: -100%;
   }
 }/*# sourceMappingURL=NavBar.css.map */
