@@ -82,7 +82,24 @@
         
     }
 }
+.signUp{
+            .text{
+                padding: 3px 10px;
+                background: var(--primaryColor);
+                border-radius: 3px;
+                color: var(--whiteColor);
+                cursor: pointer;
+                font-size: 14px;
 
+                &:hover{
+                    background: var(--secondaryColor);
+                    color: var(--blackColor);
+
+
+                }
+
+            }
+        }
 }
 
 
