@@ -63,4 +63,7 @@
   .header .menu .listItem a {
     font-size: 1.5em;
   }
+  .header .menu .listItem:hover {
+    background: var(--primaryColor);
+  }
 }/*# sourceMappingURL=NavBar.css.map */
