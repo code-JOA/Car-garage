@@ -58,7 +58,13 @@
     }
 
     .menu{
-        
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+
+        .listItem{
+            
+        }
     }
 }
 

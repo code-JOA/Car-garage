@@ -50,4 +50,9 @@
   .header .navbar .closeIcon:hover {
     color: green;
   }
+  .header .menu {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
 }/*# sourceMappingURL=NavBar.css.map */
