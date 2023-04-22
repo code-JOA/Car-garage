@@ -44,7 +44,11 @@
             left: 50%;
             transform: translate(-50%);
             background: var(--secondaryColor);
-            color: va;
+            color: var(--primaryColor);
+            padding: 3px;
+            border-radius: 50%;
+            font-size: 35px;
+            
 
         }
 
