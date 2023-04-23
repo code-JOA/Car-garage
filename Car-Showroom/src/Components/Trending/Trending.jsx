@@ -25,8 +25,12 @@ const Trending = () => {
                 Used Hyundai Type R
               </h5>
               <span className="miles">
-                
+                1000 miles only
               </span>
+              <span className="AWD">
+
+              </span>
+              
             </div>
           </div>
         </div>
