@@ -9,17 +9,20 @@ import { TbGridDots } from 'react-icons/tb'
 
 const Navbar = () => {
 
-    // statement to hold Navbar
-    const [navbar, setNavbar] = useState('navbar')
+// statement to hold Navbar
+const [navbar, setNavbar] = useState('navbar')
     
-    // function to show Navbar on small screens
-    const showNavbar = () => {
+// function to show Navbar on small screens
+const showNavbar = () => {
         setNavbar('navbar showNavbar')}
 
-    // function to remove Navbar on small screens
-    const removeNavbar = () => {
+// function to remove Navbar on small screens
+const removeNavbar = () => {
         setNavbar('navbar')
     }
+
+    
+
     return (
         <div className='header'>
         <div className='logoDiv'>
