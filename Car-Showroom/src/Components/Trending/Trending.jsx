@@ -21,7 +21,12 @@ const Trending = () => {
           <div className="singleCar grid">
             <div className="imgDiv">
               <img src="" alt="carImage" />
-              <h5 className="carTitle"></h5>
+              <h5 className="carTitle">
+                Used Hyundai Type R
+              </h5>
+              <span className="miles">
+                
+              </span>
             </div>
           </div>
         </div>
