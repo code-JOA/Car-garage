@@ -10,4 +10,7 @@
 .trending .secContainer .secHeading {
   justify-self: space-between;
   padding: 1rem 0;
+}
+.trending .secContainer .secHeading .navBtns {
+  gap: 0.5rem;
 }/*# sourceMappingURL=Trending.css.map */
