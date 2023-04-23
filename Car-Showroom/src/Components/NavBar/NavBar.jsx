@@ -10,7 +10,7 @@ import { TbGridDots } from 'react-icons/tb'
 const NavBar = () => {
 
     // statement to hold Navbar
-    const [navBar, setNavBar] = useState('')    
+    const [navBar, setNavBar] = useState('navbar')    
     return (
         <div className='header'>
         <div className='logoDiv'>
@@ -18,7 +18,7 @@ const NavBar = () => {
             </img>
         </div>
 
-        <div className="navbar">
+        <div className={navbar}>
             <ul className="menu">
                 <li className="listItem">
                     <a href="/" className="link">Used Cars</a>
