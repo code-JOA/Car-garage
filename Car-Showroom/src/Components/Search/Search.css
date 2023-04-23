@@ -22,4 +22,7 @@
   gap: 0.5rem;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
+}
+.search .searchDiv .input {
+  border-radius: 10px;
 }/*# sourceMappingURL=Search.css.map */
