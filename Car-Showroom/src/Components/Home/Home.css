@@ -49,4 +49,8 @@
 .secContainer .homeText .btns .btn:nth-child(1):hover {
   background: var(--primaryColor);
   color: var(--whiteColor);
+}
+.secContainer .homeText .btns .btn:nth-child(1):hover {
+  background: var(--primaryColor);
+  color: var(--whiteColor);
 }/*# sourceMappingURL=Home.css.map */
