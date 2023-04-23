@@ -1,6 +1,6 @@
 import React from 'react'
 import './Search.css'
-import 'AiOutlineSerch' from 'react-icons/ai'
+import { AiOutlineSearch } from 'react-icons/ai'
 
 const Search = () => {
   return (
