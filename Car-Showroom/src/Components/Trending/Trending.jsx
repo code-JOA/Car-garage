@@ -6,7 +6,7 @@ import { BsArrowLeftShort } from 'react-icons/bs'
 
 import car6 from '../../Assets/car6.jpg'
 import car5 from '../../Assets/car5.jpg'
-import car7 from "../../Assets/car7.jpg";
+import car7 from "../../Assets/car7.png";
 
 
 const Trending = () => {
@@ -23,7 +23,7 @@ const Trending = () => {
         </div>
 
         <div className="carContainer">
-          // single car div
+          {/* // single car div */}
           <div className="singleCar grid">
             <div className="imgDiv">
               <img src={car6} alt="carImage" />
