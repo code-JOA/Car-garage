@@ -13,7 +13,8 @@ const Navbar = () => {
     const [navbar, setNavbar] = useState('navbar')
     
     // function to show Navbar on small screens
-    const showNavbar = () => {setNavbar}
+    const showNavbar = () => {
+        setNavbar('navbar')}
     return (
         <div className='header'>
         <div className='logoDiv'>
