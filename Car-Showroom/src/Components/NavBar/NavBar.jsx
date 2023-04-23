@@ -28,7 +28,7 @@ const Navbar = () => {
             setHeader('header addBg')
        }
     }      
-    .window.addEventListener('scroll')
+    window.addEventListener('scroll')
 
     return (
         <div className={header}>
