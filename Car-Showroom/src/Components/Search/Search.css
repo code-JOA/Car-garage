@@ -20,5 +20,5 @@
 }
 .search .searchDiv {
   gap: 0.5rem 0;
-  grid-template-columns: repeat();
+  grid-template-columns: repeat(2, 1fr);
 }/*# sourceMappingURL=Search.css.map */
