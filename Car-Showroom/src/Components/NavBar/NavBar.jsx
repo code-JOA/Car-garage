@@ -7,7 +7,7 @@ import logo from '../../Assets/logo1.png'
 import { IoIosCloseCircle } from 'react-icons/io'
 import { TbGridDots } from 'react-icons/tb'
 
-const Navbar = () => {
+const NavBar = () => {
 
     // statement to hold Navbar
     const [navBar, setNavBar] = useState('navbar')    
