@@ -30,7 +30,10 @@ const Trending = () => {
               <span className="AWD">
 
               </span>
-              
+
+              <div className="priceSeller flex">
+                <div className="span"></div>
+              </div>
             </div>
           </div>
         </div>
