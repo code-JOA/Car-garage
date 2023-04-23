@@ -6,8 +6,10 @@ const Search = () => {
     <div className='search'>
         <div className="secContainer Container">
           <h3 className="title">
-            
+            Which Vehicle Are You Looking For?
           </h3>
+
+          
         </div>
     </div>
   )
