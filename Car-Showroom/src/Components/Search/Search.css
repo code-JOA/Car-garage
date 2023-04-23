@@ -26,4 +26,5 @@
 .search .searchDiv .input {
   border-radius: 10px;
   border: 1px solid var(--secondaryColor);
+  padding: 5px 10px;
 }/*# sourceMappingURL=Search.css.map */
