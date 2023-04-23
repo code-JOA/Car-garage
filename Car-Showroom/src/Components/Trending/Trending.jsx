@@ -20,6 +20,7 @@ const Trending = () => {
         </div>
 
         <div className="carContainer">
+          // single car div
           <div className="singleCar grid">
             <div className="imgDiv">
               <img src={car6} alt="carImage" />
