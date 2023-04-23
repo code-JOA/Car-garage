@@ -16,47 +16,44 @@ const Navbar = () => {
     const showNavbar = () => {
         setNavbar('navbar showNavbar')}
     return (
-      <div className="header">
-        <div className="logoDiv">
-          <img src={logo} alt="Logo Image" className="logo"></img>
+        <div className='header'>
+        <div className='logoDiv'>
+            <img src={logo} alt='Logo Image' className='logo'>
+            </img>
         </div>
 
         <div className={navbar}>
-          <ul className="menu">
-            <li className="listItem">
-              <a href="/" className="link">
-                Used Cars
-              </a>
-            </li>
+            <ul className="menu">
+                <li className="listItem">
+                    <a href="/" className="link">Used Cars</a>
+                </li>
 
-            <li className="listItem">
-              <a href="/" className="link">
-                New Cars
-              </a>
-            </li>
+                <li className="listItem">
+                    <a href="/" className="link">New Cars</a>
+                </li>
 
-            <li className="listItem">
-              <a href="/" className="link">
-                Auctions
-              </a>
-            </li>
+                <li className="listItem">
+                    <a href="/" className="link">Auctions</a>
+                </li>
 
-            <li className="listItem">
-              <a href="/" className="link">
-                Sell
-              </a>
-            </li>
-          </ul>
+                <li className="listItem">
+                    <a href="/" className="link">Sell</a>
+                </li>
+            </ul>
 
-          <IoIosCloseCircle className="icon closeIcon" />
+            <IoIosCloseCircle className='icon closeIcon' />
+
         </div>
-
+        
         <div className="signUp flex">
-          <div className="text">Sign Up</div>
-          <TbGridDots className="icon toggleNavbarIcon" onclick={showNavbar} />
+            <div className="text">Sign Up</div>
+            <TbGridDots className='icon toggleNavbarIcon' onclick={showNavbar}/>
+
         </div>
-      </div>
-    );
+
+
+        </div>
+)
 }
 
 export default Navbar
