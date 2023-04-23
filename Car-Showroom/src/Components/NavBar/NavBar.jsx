@@ -21,7 +21,8 @@ const removeNavbar = () => {
         setNavbar('navbar')
     }
 
-    
+// function for Navbar on scroll
+const [Header, setHeader] = ()    
     
 
     return (
