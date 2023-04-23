@@ -35,8 +35,8 @@ const Trending = () => {
                 <span className="price">
                   $21,000
                 </span>
-                <span className="span seller">
-                  
+                <span className="seller">
+                  Best Seller
                 </span>
               </div>
             </div>
