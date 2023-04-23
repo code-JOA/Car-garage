@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './NavBar.css'
 
 import logo from '../../Assets/logo1.png'
@@ -8,6 +8,8 @@ import { IoIosCloseCircle } from 'react-icons/io'
 import { TbGridDots } from 'react-icons/tb'
 
 const NavBar = () => {
+
+    
     return (
         <div className='header'>
         <div className='logoDiv'>
