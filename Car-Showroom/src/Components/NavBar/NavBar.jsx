@@ -47,7 +47,7 @@ const Navbar = () => {
         
         <div className="signUp flex">
             <div className="text">Sign Up</div>
-            <TbGridDots className='icon toggleNavbarIcon' onclick={showNavbar}/>
+            <TbGridDots className='icon toggleNavbarIcon' onClick={showNavbar}/>
 
         </div>
 
