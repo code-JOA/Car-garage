@@ -18,8 +18,9 @@ const Trending = () => {
             <BsArrowRightShort className='icon rightIcon' />
           </div>
         </div>
+
         <div className="carContainer">
-          
+          <div className="grid"></div>
         </div>
       </div>
     </div>
