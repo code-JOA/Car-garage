@@ -25,7 +25,7 @@ const removeNavbar = () => {
 const [Header, setHeader] = useState('header')
 const addBg = () => {
     if (window.screenY >= 20){
-        setHeader('header addd')
+        setHeader('header addBg')
     }
 }    
     
