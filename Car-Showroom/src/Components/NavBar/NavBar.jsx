@@ -16,7 +16,10 @@ const Navbar = () => {
     const showNavbar = () => {
         setNavbar('navbar showNavbar')}
 
-        
+    // function to remove Navbar on small screens
+    const removeNavbar = () => {
+        setNavbar('navbar removeNavbar')}
+    }
     return (
         <div className='header'>
         <div className='logoDiv'>
