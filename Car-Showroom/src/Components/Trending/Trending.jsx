@@ -18,6 +18,9 @@ const Trending = () => {
             <BsArrowRightShort className='icon rightIcon' />
           </div>
         </div>
+        <div className="carContainer">
+          
+        </div>
       </div>
     </div>
   );
