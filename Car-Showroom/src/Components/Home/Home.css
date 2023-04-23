@@ -26,4 +26,8 @@
   color: var(--blackColor);
   font-weight: 700;
   font-size: 30px;
+}
+.secContainer .homeText .btns {
+  gap: 1.5rem;
+  justify-content: center;
 }/*# sourceMappingURL=Home.css.map */
