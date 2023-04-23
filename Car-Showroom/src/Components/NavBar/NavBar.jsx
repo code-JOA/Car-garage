@@ -18,7 +18,7 @@ const Navbar = () => {
 
     // function to remove Navbar on small screens
     const removeNavbar = () => {
-        setNavbar('navbar')
+        setNavbar('navbar removeNavbar')
     }
     return (
         <div className='header'>
