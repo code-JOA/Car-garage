@@ -30,4 +30,10 @@
 .secContainer .homeText .btns {
   gap: 1.5rem;
   justify-content: center;
+}
+.secContainer .homeText .btns .btn {
+  padding: 10px 15px;
+  border-radius: 3px;
+  font-weight: 600;
+  color: var(--);
 }/*# sourceMappingURL=Home.css.map */
