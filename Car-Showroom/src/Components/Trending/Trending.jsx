@@ -12,10 +12,10 @@ const Trending = () => {
           <h3 className="secTitle">
             Trending Near You
           </h3>
-          
+
           <div className="navBtns flex">
-            <BsArrowLeftShort className="icon leftIcon" />
-            <BsArrowRightShort className="icon rightIcon" />
+            <BsArrowLeftShort className='icon leftIcon' />
+            <BsArrowRightShort className='icon rightIcon' />
           </div>
         </div>
       </div>
