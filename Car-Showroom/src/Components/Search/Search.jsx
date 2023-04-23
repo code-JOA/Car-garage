@@ -13,8 +13,9 @@ const Search = () => {
           <input type="number" placeholder="Year" />
           <input type="text" placeholder="Model" />
           <input type="number" placeholder="Price" />
-          <button className='btn primaryBtn flex'>
-            
+          <button className="btn primaryBtn flex">
+            <AiOutlineSearch className="icon" />
+            <span >Search</span>
           </button>
         </div>
       </div>
