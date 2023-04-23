@@ -32,7 +32,9 @@ const Trending = () => {
               </span>
 
               <div className="priceSeller flex">
-                <div className="span"></div>
+                <span className="price">
+                  $21,000
+                </span>
               </div>
             </div>
           </div>
