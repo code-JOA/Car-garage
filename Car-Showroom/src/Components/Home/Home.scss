@@ -58,8 +58,7 @@
                 }
             }
 
-            .btn:nth-child(1){
-                
+            .btn:nth-child(1){ 
                 &:hover{
                     background: var(--primaryColor);
                     color: var(--whiteColor);
