@@ -3,7 +3,7 @@ import './Trending.css'
 
 const Trending = () => {
   return (
-    <div className=''>
+    <div className='trending'>
 
     </div>
   )
