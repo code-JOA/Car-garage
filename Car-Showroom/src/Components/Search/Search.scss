@@ -33,18 +33,6 @@
             &:focus{
                 border: none;
                 border: 1px solid var(--primaryColor);
-
-            }
-
-            .btn{
-                justify-content: center;
-                width: 100%;
-                align-self: center;
-                gap: .3rem;
-
-                .icon{
-                    font-size: 15px;
-                }
             }
         }    
     }

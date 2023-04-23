@@ -33,13 +33,4 @@
 .search .searchDiv input:focus {
   border: none;
   border: 1px solid var(--primaryColor);
-}
-.search .searchDiv input .btn {
-  justify-content: center;
-  width: 100%;
-  align-self: center;
-  gap: 0.3rem;
-}
-.search .searchDiv input .btn .icon {
-  font-size: 15px;
 }/*# sourceMappingURL=Search.css.map */
