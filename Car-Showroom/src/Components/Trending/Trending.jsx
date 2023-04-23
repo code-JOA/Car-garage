@@ -10,7 +10,7 @@ const Trending = () => {
             Trending Near You
           </h3>
           <div className="navBtns flex">
-            
+            BsArrowLeftShort
           </div>
         </div>
       </div>
