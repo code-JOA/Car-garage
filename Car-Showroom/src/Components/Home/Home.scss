@@ -20,13 +20,13 @@
     .homeText{
         .homeSpan{
             color: var(--TextColor);
-            font-weight: -400;
-            font-size: -15px;
+            font-weight: 400;
+            font-size: 15px;
         }
         .homeTitle{
-            color: var(--TextColor);
-            font-weight: -400;
-            font-size: -15px;
+            color: var(--blackColor);
+            font-weight: 700;
+            font-size: 30px;
         }
     }
 }
