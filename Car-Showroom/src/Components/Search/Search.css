@@ -12,4 +12,6 @@
 }
 .search .title {
   color: var(--blackColor);
+  font-size: 22px;
+  padding: 1rem 0;
 }/*# sourceMappingURL=Search.css.map */
