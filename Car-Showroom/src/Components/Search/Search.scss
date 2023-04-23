@@ -28,10 +28,12 @@
             border: 1px solid var(--secondaryColor);
             padding: 5px 10px;
             outline: none;
+            width: 100%;
 
             &:focus{
                 border: none;
-                border: 1px solid var(--secondaryColor);    
+                border: 1px solid var(--primaryColor);
+                    
             }
         }    
     }
