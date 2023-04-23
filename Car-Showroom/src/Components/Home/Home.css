@@ -19,4 +19,6 @@
 }
 .secContainer .homeText .homeSpan {
   color: var(--TextColor);
+  font-weight: -400;
+  font-size: -15px;
 }/*# sourceMappingURL=Home.css.map */
