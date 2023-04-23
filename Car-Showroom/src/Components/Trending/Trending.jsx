@@ -5,7 +5,11 @@ const Trending = () => {
   return (
     <div className='trending'>
       <div className="secContainer container">
-        
+        <div className="secHeading flex">
+          <h3 className="secTitle">
+            Trending Near You
+          </h3>
+        </div>
       </div>
 
     </div>
