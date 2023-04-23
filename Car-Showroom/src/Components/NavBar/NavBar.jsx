@@ -27,8 +27,8 @@ const Navbar = () => {
         if (window.screenY >= 20){
             setHeader('header addBg')
        }
-}      
-    
+    }      
+    .window.addEventListener('scroll')
 
     return (
         <div className={header}>
