@@ -9,7 +9,9 @@ const Search = () => {
             Which Vehicle Are You Looking For?
           </h3>
 
-          
+          <div className="searchDiv grid">
+            <input type="text" />
+          </div>
         </div>
     </div>
   )
