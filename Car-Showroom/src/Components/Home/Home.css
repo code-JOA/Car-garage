@@ -18,7 +18,7 @@
   gap: 2rem;
 }
 .secContainer .homeText .homeSpan {
-  color: var(--TextColor);
+  color: var(--textColor);
   font-weight: 400;
   font-size: 15px;
 }
