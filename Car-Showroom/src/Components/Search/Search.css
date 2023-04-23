@@ -31,4 +31,5 @@
 }
 .search .searchDiv input:focus {
   border: none;
+  border: 1px solid var(--secondaryColor);
 }/*# sourceMappingURL=Search.css.map */
