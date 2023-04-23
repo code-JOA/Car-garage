@@ -14,7 +14,7 @@ const Navbar = () => {
     
     // function to show Navbar on small screens
     const showNavbar = () => {
-        setNavbar('navbar')}
+        setNavbar('navbar showNavbar')}
     return (
         <div className='header'>
         <div className='logoDiv'>
