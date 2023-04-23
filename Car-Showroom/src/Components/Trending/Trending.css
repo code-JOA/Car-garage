@@ -13,4 +13,7 @@
 }
 .trending .secContainer .secHeading .navBtns {
   gap: 0.5rem;
+}
+.trending .secContainer .secHeading .navBtns .icon {
+  padding: 3px 5px;
 }/*# sourceMappingURL=Trending.css.map */
