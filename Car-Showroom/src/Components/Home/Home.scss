@@ -48,8 +48,9 @@
                 }
             }
 
-            .btn: :nth-child(1){
-                background: #000;
+            .btn:nth-child(1){
+                background: var(--whiteColor);
+                color
             }
         }
     }

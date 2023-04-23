@@ -30,7 +30,6 @@
 .secContainer .homeText .btns {
   gap: 1.5rem;
   justify-content: center;
-  .btn: nth;
 }
 .secContainer .homeText .btns .btn {
   padding: 10px 15px;
@@ -42,4 +41,7 @@
 .secContainer .homeText .btns .btn:hover {
   background: var(--primaryColor);
   color: var(--whiteColor);
+}
+.secContainer .homeText .btns .btn:nth-child(1) {
+  background: var(--whiteColor);
 }/*# sourceMappingURL=Home.css.map */
