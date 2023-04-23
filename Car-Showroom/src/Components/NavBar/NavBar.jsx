@@ -26,7 +26,7 @@ const Navbar = () => {
     const addBg = () => {
         if (window.screenY >= 20){
             setHeader('header addBg')
-    }
+       }
 }      
     
 
