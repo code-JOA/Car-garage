@@ -5,7 +5,9 @@ const Search = () => {
   return (
     <div className='search'>
         <div className="secContainer Container">
-          
+          <h3 className="title">
+            
+          </h3>
         </div>
     </div>
   )
