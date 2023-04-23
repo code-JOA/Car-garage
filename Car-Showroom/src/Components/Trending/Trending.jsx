@@ -9,6 +9,9 @@ const Trending = () => {
           <h3 className="secTitle">
             Trending Near You
           </h3>
+          <div className="navBtns flex">
+            
+          </div>
         </div>
       </div>
 
