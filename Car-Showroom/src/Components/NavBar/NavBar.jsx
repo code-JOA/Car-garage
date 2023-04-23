@@ -24,7 +24,7 @@ const Navbar = () => {
     // function for Navbar on scroll
     const [header, setHeader] = useState('header')
     const addBg = () => {
-        if (window.scrollY >= 20){
+        if(window.scrollY >= 20){
             setHeader('header addBg')
        }
     }      
