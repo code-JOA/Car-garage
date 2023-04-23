@@ -19,4 +19,9 @@
   background: var(--secondaryColor);
   border-radius: 3px;
   font-size: 30px;
+  cursor: pointer;
+}
+.trending .secContainer .secHeading .navBtns .icon:hover {
+  background: var(--primaryColor);
+  color: var(--whiteColor);
 }/*# sourceMappingURL=Trending.css.map */
