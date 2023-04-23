@@ -37,4 +37,7 @@
   font-weight: 600;
   margin-top: 0.5rem;
   font-size: 12px;
+}
+.secContainer .homeText .btns .btn:hover {
+  background: var(--primaryColor);
 }/*# sourceMappingURL=Home.css.map */
