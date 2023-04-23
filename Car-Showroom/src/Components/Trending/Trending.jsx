@@ -6,7 +6,7 @@ import { BsArrowLeftShort } from 'react-icons/bs'
 
 const Trending = () => {
   return (
-    <div className="trending">
+    <div className="trending section">
       <div className="secContainer container">
         <div className="secHeading flex">
           <h3 className="secTitle">
