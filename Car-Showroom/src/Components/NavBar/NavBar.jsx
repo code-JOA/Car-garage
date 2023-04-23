@@ -22,7 +22,8 @@ const removeNavbar = () => {
     }
 
 // function for Navbar on scroll
-const [Header, setHeader] = ()    
+const [Header, setHeader] = useState('header')
+const     
     
 
     return (
