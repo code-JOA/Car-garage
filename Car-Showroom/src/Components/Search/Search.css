@@ -37,4 +37,6 @@
 .search .searchDiv input .btn {
   justify-content: center;
   width: 100%;
+  align-self: center;
+  gap: 0.3rem;
 }/*# sourceMappingURL=Search.css.map */
