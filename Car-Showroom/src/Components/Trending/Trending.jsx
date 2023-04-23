@@ -24,7 +24,7 @@ const Trending = () => {
             <div className="imgDiv">
               <img src={car6} alt="carImage" />
               <h5 className="carTitle">
-                Used Hyundai Type R
+                Used Audi RS6 Avant
               </h5>
               <span className="miles">
                 1000 miles only
