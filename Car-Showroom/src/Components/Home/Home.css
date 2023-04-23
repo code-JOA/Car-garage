@@ -47,5 +47,6 @@
   color: var(--textColor);
 }
 .secContainer .homeText .btns .btn:nth-child(1):hover {
-  background: var(--);
+  bg: var(--primaryColor);
+  color: var(--whiteColor);
 }/*# sourceMappingURL=Home.css.map */

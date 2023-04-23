@@ -53,7 +53,8 @@
                 color: var(--textColor);
 
                 &:hover{
-                    background: var(--)
+                    bg: var(--primaryColor);
+                    color: var(--whiteColor);
                 }
             }
         }
