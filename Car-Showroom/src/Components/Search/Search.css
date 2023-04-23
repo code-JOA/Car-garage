@@ -33,4 +33,7 @@
 .search .searchDiv input:focus {
   border: none;
   border: 1px solid var(--primaryColor);
+}
+.search .searchDiv .btn {
+  justify-content: center;
 }/*# sourceMappingURL=Search.css.map */
