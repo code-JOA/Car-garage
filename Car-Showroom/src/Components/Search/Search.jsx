@@ -1,5 +1,6 @@
 import React from 'react'
 import './Search.css'
+import 'AiOutlineSerch' from 'react-icons/ai'
 
 const Search = () => {
   return (
@@ -13,7 +14,7 @@ const Search = () => {
           <input type="text" placeholder="Model" />
           <input type="text" placeholder="Price" />
           <button className='btn primaryBtn flex'></button>
-          <AiOutlineSearch className='icon/>
+          <AiOutlineSearch className='icon'/>
         </div>
       </div>
     </div>
