@@ -8,27 +8,27 @@ import { IoIosCloseCircle } from 'react-icons/io'
 import { TbGridDots } from 'react-icons/tb'
 
 const Navbar = () => {
-    
 
-// statement to hold Navbar
-const [navbar, setNavbar] = useState('navbar')
-    
-// function to show Navbar on small screens
-const showNavbar = () => {
-        setNavbar('navbar showNavbar')}
 
-// function to remove Navbar on small screens
-const removeNavbar = () => {
-        setNavbar('navbar')
+    // statement to hold Navbar
+    const [navbar, setNavbar] = useState('navbar')
+    
+    // function to show Navbar on small screens
+    const showNavbar = () => {
+            setNavbar('navbar showNavbar')}
+
+    // function to remove Navbar on small screens
+    const removeNavbar = () => {
+            setNavbar('navbar')
     }
 
 // function for Navbar on scroll
-const [Header, setHeader] = useState('header')
-const addBg = () => {
-    if (window.screenY >= 20){
-        setHeader('header addBg')
+    const [Header, setHeader] = useState('header')
+    const addBg = () => {
+        if (window.screenY >= 20){
+            setHeader('header addBg')
     }
-}    
+}      
     
 
     return (
