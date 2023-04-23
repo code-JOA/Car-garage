@@ -9,7 +9,8 @@ import { TbGridDots } from 'react-icons/tb'
 
 const NavBar = () => {
 
-    
+    // statement to hold Navbar
+    const [navBar, setNavBar] = useState('')    
     return (
         <div className='header'>
         <div className='logoDiv'>
