@@ -46,7 +46,7 @@ const Navbar = () => {
                 </li>
             </ul>
 
-            <IoIosCloseCircle className='icon closeIcon' />
+            <IoIosCloseCircle className='icon closeIcon' onClick={removeNavbar} />
 
         </div>
         
