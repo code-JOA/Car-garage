@@ -40,16 +40,16 @@ const Trending = () => {
         </div>
 
         <div className="carContainer">
-          {/* // single car div */}
+          {/* // single car div 2 */}
           <div className="singleCar grid">
             <div className="imgDiv">
               <img src={car4} alt="carImage" />
-              <h5 className="carTitle">Used Audi RS6 Avant</h5>
-              <span className="miles">1000 miles only</span>
+              <h5 className="carTitle">Mercedes Sports</h5>
+              <span className="miles">100 miles only</span>
               <span className="AWD"></span>
 
               <div className="priceSeller flex">
-                <span className="price">$21,000</span>
+                <span className="price">$120,000</span>
                 <span className="seller">Best Seller</span>
               </div>
             </div>
@@ -57,16 +57,16 @@ const Trending = () => {
         </div>
 
         <div className="carContainer">
-          {/* // single car div */}
+          {/* // single car div 3 */}
           <div className="singleCar grid">
             <div className="imgDiv">
               <img src={car7} alt="carImage" />
-              <h5 className="carTitle">Used Audi RS6 Avant</h5>
+              <h5 className="carTitle">G-wagon</h5>
               <span className="miles">1000 miles only</span>
               <span className="AWD"></span>
 
               <div className="priceSeller flex">
-                <span className="price">$21,000</span>
+                <span className="price">$1,000</span>
                 <span className="seller">Best Seller</span>
               </div>
             </div>
