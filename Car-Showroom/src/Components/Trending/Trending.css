@@ -17,4 +17,6 @@
 .trending .secContainer .secHeading .navBtns .icon {
   padding: 3px 5px;
   background: var(--secondaryColor);
+  border-radius: 3px;
+  font-size: 30px;
 }/*# sourceMappingURL=Trending.css.map */
