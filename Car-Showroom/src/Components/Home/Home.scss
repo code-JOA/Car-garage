@@ -23,14 +23,20 @@
             font-weight: 400;
             font-size: 15px;
         }
+
         .homeTitle{
             color: var(--blackColor);
             font-weight: 700;
             font-size: 30px;
         }
+
         .btns{
             gap: 1.5rem;
             justify-content: center;
+
+             .btn{
+            
+        }
         }
     }
 }
