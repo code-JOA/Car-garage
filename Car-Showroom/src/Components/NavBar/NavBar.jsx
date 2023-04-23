@@ -22,6 +22,7 @@ const removeNavbar = () => {
     }
 
     
+    
 
     return (
         <div className='header'>
