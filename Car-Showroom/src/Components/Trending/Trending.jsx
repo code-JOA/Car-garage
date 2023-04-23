@@ -4,6 +4,8 @@ import './Trending.css'
 import { BsArrowRightShort } from "react-icons/bs"
 import { BsArrowLeftShort } from 'react-icons/bs'
 
+import car9 from '../../Assets/car9.png'
+
 const Trending = () => {
   return (
     <div className="trending section">
