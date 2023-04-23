@@ -4,7 +4,7 @@ import './Trending.css'
 import { BsArrowRightShort } from "react-icons/bs"
 import { BsArrowLeftShort } from 'react-icons/bs'
 
-import car9 from '../../Assets/car9.png'
+import car6 from '../../Assets/car6.png'
 
 const Trending = () => {
   return (
@@ -22,7 +22,7 @@ const Trending = () => {
         <div className="carContainer">
           <div className="singleCar grid">
             <div className="imgDiv">
-              <img src={car9} alt="carImage" />
+              <img src={car6} alt="carImage" />
               <h5 className="carTitle">
                 Used Hyundai Type R
               </h5>
