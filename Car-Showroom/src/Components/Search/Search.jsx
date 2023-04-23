@@ -12,7 +12,7 @@ const Search = () => {
           <input type="number" placeholder="Year" />
           <input type="text" placeholder="Model" />
           <input type="text" placeholder="Price" />
-          <button className=''></button>
+          <button className='btn primaryBtn flex'></button>
         </div>
       </div>
     </div>
