@@ -7,10 +7,10 @@ import logo from '../../Assets/logo1.png'
 import { IoIosCloseCircle } from 'react-icons/io'
 import { TbGridDots } from 'react-icons/tb'
 
-const NavBar = () => {
+const Navbar = () => {
 
     // statement to hold Navbar
-    const [navBar, setNavBar] = useState('navbar')    
+    const [navbar, setNavbar] = useState('navbar')    
     return (
         <div className='header'>
         <div className='logoDiv'>
@@ -52,4 +52,4 @@ const NavBar = () => {
 )
 }
 
-export default NavBar
+export default Navbar
