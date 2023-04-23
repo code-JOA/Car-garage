@@ -5,6 +5,7 @@ import { BsArrowRightShort } from "react-icons/bs"
 import { BsArrowLeftShort } from 'react-icons/bs'
 
 import car6 from '../../Assets/car6.jpg'
+import car7 from '../../Assets/car7.jpg'
 
 const Trending = () => {
   return (
