@@ -27,27 +27,52 @@ const Trending = () => {
           <div className="singleCar grid">
             <div className="imgDiv">
               <img src={car6} alt="carImage" />
-              <h5 className="carTitle">
-                Used Audi RS6 Avant
-              </h5>
-              <span className="miles">
-                1000 miles only
-              </span>
-              <span className="AWD">
-
-              </span>
+              <h5 className="carTitle">Used Audi RS6 Avant</h5>
+              <span className="miles">1000 miles only</span>
+              <span className="AWD"></span>
 
               <div className="priceSeller flex">
-                <span className="price">
-                  $21,000
-                </span>
-                <span className="seller">
-                  Best Seller
-                </span>
+                <span className="price">$21,000</span>
+                <span className="seller">Best Seller</span>
               </div>
             </div>
           </div>
         </div>
+
+        <div className="carContainer">
+          {/* // single car div */}
+          <div className="singleCar grid">
+            <div className="imgDiv">
+              <img src={car5} alt="carImage" />
+              <h5 className="carTitle">Used Audi RS6 Avant</h5>
+              <span className="miles">1000 miles only</span>
+              <span className="AWD"></span>
+
+              <div className="priceSeller flex">
+                <span className="price">$21,000</span>
+                <span className="seller">Best Seller</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="carContainer">
+          {/* // single car div */}
+          <div className="singleCar grid">
+            <div className="imgDiv">
+              <img src={car7} alt="carImage" />
+              <h5 className="carTitle">Used Audi RS6 Avant</h5>
+              <span className="miles">1000 miles only</span>
+              <span className="AWD"></span>
+
+              <div className="priceSeller flex">
+                <span className="price">$21,000</span>
+                <span className="seller">Best Seller</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   );
