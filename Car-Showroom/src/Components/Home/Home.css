@@ -30,6 +30,7 @@
 .secContainer .homeText .btns {
   gap: 1.5rem;
   justify-content: center;
+  .btn: nth;
 }
 .secContainer .homeText .btns .btn {
   padding: 10px 15px;

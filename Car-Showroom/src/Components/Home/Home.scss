@@ -47,7 +47,10 @@
                     color: var(--whiteColor);
                 }
             }
-            
+
+            .btn: :nth-child(1){
+                background: #000;
+            }
         }
     }
 }
