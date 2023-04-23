@@ -31,7 +31,7 @@ const addBg = () => {
     
 
     return (
-        <div className='header'>
+        <div className={header}>
         <div className='logoDiv'>
             <img src={logo} alt='Logo Image' className='logo'>
             </img>
