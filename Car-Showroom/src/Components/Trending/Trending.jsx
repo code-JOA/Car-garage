@@ -1,7 +1,8 @@
 import React from 'react'
 import './Trending.css'
 
-import { BsArrowLeftShort } from 'react-icons/bs'
+import { BsArrowRightShort } from "react-icons/bs";
+import { BsArrowLeftShort } from 'react-icons/bs';
 
 const Trending = () => {
   return (
