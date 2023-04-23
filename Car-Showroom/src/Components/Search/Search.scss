@@ -38,18 +38,13 @@
         
         .btn{
             justify-content: center;
+            width: 100%;
+            align-self: center; 
+            gap: .3rem; 
 
+            .icon{
+                font-size: 15px;
+            }
         }
     }
 }
-
-
-//  .btn{
-//                 
-//                 
-//                 align-self: center;
-//                 gap: .3rem;
-
-//                 .icon{
-//                     font-size: 15px;
-//                 }

@@ -36,4 +36,10 @@
 }
 .search .searchDiv .btn {
   justify-content: center;
+  width: 100%;
+  align-self: center;
+  gap: 0.3rem;
+}
+.search .searchDiv .btn .icon {
+  font-size: 15px;
 }/*# sourceMappingURL=Search.css.map */
