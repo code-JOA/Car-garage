@@ -62,11 +62,11 @@ const Trending = () => {
             <div className="imgDiv">
               <img src={car7} alt="carImage" />
               <h5 className="carTitle">G-wagon</h5>
-              <span className="miles">1000 miles only</span>
+              <span className="miles">30 miles only</span>
               <span className="AWD"></span>
 
               <div className="priceSeller flex">
-                <span className="price">$1,000</span>
+                <span className="price">$78,000</span>
                 <span className="seller">Best Seller</span>
               </div>
             </div>
