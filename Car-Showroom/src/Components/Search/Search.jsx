@@ -3,8 +3,8 @@ import './Search.css'
 
 const Search = () => {
   return (
-    <div className=''>
-
+    <div className='search'>
+        <div className="secContainer Container"></div>
     </div>
   )
 }
