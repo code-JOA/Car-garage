@@ -9,9 +9,9 @@ const Search = () => {
 
         <div className="searchDiv grid">
           <input type="text" placeholder="Type" />
-          <input type="text" placeholder="Type" />
-          <input type="text" placeholder="Type" />
-          <input type="text" placeholder="Type" />
+          <input type="text" placeholder="Year" />
+          <input type="text" placeholder="Model" />
+          <input type="text" placeholder="Price" />
         </div>
       </div>
     </div>
