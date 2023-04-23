@@ -23,12 +23,12 @@
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
 }
-.search .searchDiv .input {
+.search .searchDiv input {
   border-radius: 10px;
   border: 1px solid var(--secondaryColor);
   padding: 5px 10px;
   outline: none;
 }
-.search .searchDiv .input:focus {
+.search .searchDiv input:focus {
   border: none;
 }/*# sourceMappingURL=Search.css.map */
