@@ -8,6 +8,7 @@ import { IoIosCloseCircle } from 'react-icons/io'
 import { TbGridDots } from 'react-icons/tb'
 
 const Navbar = () => {
+    
 
 // statement to hold Navbar
 const [navbar, setNavbar] = useState('navbar')
@@ -31,7 +32,7 @@ const addBg = () => {
     
 
     return (
-        <div className={header}>
+        <div className='header'>
         <div className='logoDiv'>
             <img src={logo} alt='Logo Image' className='logo'>
             </img>
