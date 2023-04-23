@@ -24,11 +24,11 @@ const Navbar = () => {
     // function for Navbar on scroll
     const [header, setHeader] = useState('header')
     const addBg = () => {
-        if (window.screenY >= 20){
+        if (window.scrollY >= 20){
             setHeader('header addBg')
        }
     }      
-    window.addEventListener('scroll')
+    window.addEventListener('scroll', addBg)
 
     return (
         <div className={header}>
