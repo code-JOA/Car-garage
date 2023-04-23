@@ -29,19 +29,19 @@ const Navbar = () => {
 
         <div className={navbar}>
             <ul className="menu">
-                <li className="listItem">
+                <li onClick={removeNavbar} className="listItem">
                     <a href="/" className="link">Used Cars</a>
                 </li>
 
-                <li className="listItem">
+                <li onClick={removeNavbar} className="listItem">
                     <a href="/" className="link">New Cars</a>
                 </li>
 
-                <li className="listItem">
+                <li onClick={removeNavbar} className="listItem">
                     <a href="/" className="link">Auctions</a>
                 </li>
 
-                <li className="listItem">
+                <li onClick={removeNavbar} className="listItem">
                     <a href="/" className="link">Sell</a>
                 </li>
             </ul>
