@@ -20,7 +20,11 @@ const Trending = () => {
         </div>
 
         <div className="carContainer">
-          <div className="grid"></div>
+          <div className="singleCar grid">
+            <div className="imgDiv">
+              <img src="" alt="" />
+            </div>
+          </div>
         </div>
       </div>
     </div>
