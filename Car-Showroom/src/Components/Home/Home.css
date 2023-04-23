@@ -40,4 +40,5 @@
 }
 .secContainer .homeText .btns .btn:hover {
   background: var(--primaryColor);
+  color: var(--whiteColor);
 }/*# sourceMappingURL=Home.css.map */
