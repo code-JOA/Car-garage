@@ -24,8 +24,8 @@ const removeNavbar = () => {
 // function for Navbar on scroll
 const [Header, setHeader] = useState('header')
 const addBg = () => {
-    if (window.screenY >= 20{
-        
+    if (window.screenY >= 20){
+        setHeader('header addd')
     }
 }    
     
