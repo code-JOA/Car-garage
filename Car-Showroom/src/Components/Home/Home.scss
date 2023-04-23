@@ -50,7 +50,11 @@
 
             .btn:nth-child(1){
                 background: var(--whiteColor);
-                color
+                color: var(--textColor);
+
+                &:hover{
+                    background: var(--)
+                }
             }
         }
     }
