@@ -51,6 +51,6 @@
   color: var(--whiteColor);
 }
 .secContainer .homeText .btns .btn:nth-child(2):hover {
-  background: var(--primaryColor);
-  color: var(--whiteColor);
+  background: var(--whiteColor);
+  color: var(--textColor);
 }/*# sourceMappingURL=Home.css.map */
