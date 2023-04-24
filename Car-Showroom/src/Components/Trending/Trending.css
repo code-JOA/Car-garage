@@ -34,4 +34,6 @@
 .trending .secContainer .carContainer .singleCar .imgDiv {
   height: 200px;
   width: 200px;
+  overflow: hidden;
+  border-radius: 10px;
 }/*# sourceMappingURL=Trending.css.map */
