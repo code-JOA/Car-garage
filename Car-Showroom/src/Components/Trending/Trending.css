@@ -44,4 +44,6 @@
 }
 .trending .secContainer .carContainer .singleCar .carTitle {
   color: var(--blackColor);
+  font-size: 15px;
+  padding-top: 10px;
 }/*# sourceMappingURL=Trending.css.map */
