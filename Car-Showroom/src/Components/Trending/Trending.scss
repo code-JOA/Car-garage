@@ -35,6 +35,10 @@
 
         .carContainer{
             gap: 2rem;
+
+            .singleCar{
+                transition: .3s ease-in-out;
+            }
         }
     }
 }

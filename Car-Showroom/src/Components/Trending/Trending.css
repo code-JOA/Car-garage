@@ -27,4 +27,7 @@
 }
 .trending .secContainer .carContainer {
   gap: 2rem;
+}
+.trending .secContainer .carContainer .singleCar {
+  transition: 0.3s ease-in-out;
 }/*# sourceMappingURL=Trending.css.map */
