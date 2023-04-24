@@ -30,4 +30,8 @@
 }
 .trending .secContainer .carContainer .singleCar {
   transition: 0.3s ease-in-out;
+}
+.trending .secContainer .carContainer .singleCar .imgDiv {
+  height: 200px;
+  width: 200px;
 }/*# sourceMappingURL=Trending.css.map */
