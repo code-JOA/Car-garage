@@ -56,7 +56,7 @@ const Trending = () => {
           </div>
         </div>
 
-        <div className="carContainer">
+        <div className="carContainer grid">
           {/* // single car div 3 */}
           <div className="singleCar grid">
             <div className="imgDiv">

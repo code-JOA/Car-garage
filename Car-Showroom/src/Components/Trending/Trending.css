@@ -24,4 +24,7 @@
 .trending .secContainer .secHeading .navBtns .icon:hover {
   background: var(--primaryColor);
   color: var(--whiteColor);
+}
+.trending .secContainer .carContainer {
+  gap: 2rem;
 }/*# sourceMappingURL=Trending.css.map */
