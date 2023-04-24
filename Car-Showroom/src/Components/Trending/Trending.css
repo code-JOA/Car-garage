@@ -41,4 +41,7 @@
 .trending .secContainer .carContainer .singleCar .imgDiv img {
   height: 100%;
   width: 100%;
+}
+.trending .secContainer .carContainer .singleCar .carTitle {
+  color: var(--blackColor);
 }/*# sourceMappingURL=Trending.css.map */
